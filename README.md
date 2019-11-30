@@ -14,7 +14,7 @@ The steps taken to complete this project are as follows:
 3.) [Deeper Analysis](https://github.com/tpham222/Recommender-System/blob/master/notebooks/3%20-%20Deeper%20Analysis.ipynb)
 - Some of the results of interest from the exploratory data analysis were more deeply analyzed. 
 
-4.)[Recommender System](https://github.com/tpham222/Recommender-System/blob/master/notebooks/4%20-%20%20Recommender%20System.ipynb)
+4.) [Recommender System](https://github.com/tpham222/Recommender-System/blob/master/notebooks/4%20-%20%20Recommender%20System.ipynb)
 - The scikit Surprise package was used in order to implement matrix factorization on the Amazon dataset with the SVD algorithm. 
 
 ## Results
