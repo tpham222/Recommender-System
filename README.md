@@ -18,7 +18,7 @@ The steps taken to complete this project are as follows:
 - The scikit Surprise package was used in order to implement matrix factorization on the Amazon dataset with the SVD algorithm. 
 
 ## Results
-The results of this capstone project are presented in a pdf report: [Recommender System Report](https://github.com/tpham222/Recommender-System/blob/master/Capstone%20Project%202%20-%20Final%20Report.pdf). The Jupyter notebooks goes into the more technical details of each step.
+The results of this capstone project are presented in a pdf report as well as a pdf slide deck: [Recommender System Report](https://github.com/tpham222/Recommender-System/blob/master/Capstone%20Project%202%20-%20Final%20Report.pdf), [Recommender System Slide Deck](https://github.com/tpham222/Recommender-System/blob/master/Capstone%20Project%202_%20Recommender%20system%20Slide%20Deck.pdf). The Jupyter notebooks goes into the more technical details of each step.
 ### Summary of results  
 From the exploratory data analysis it was seen that the average ratings of reviews were very dynamic over the years. The average ratings for this dataset started off at its peak in 2000 with a rating of about 4.39. It then steadily declined over the years until it reached its lowest average rating of 3.88 in 2005. The rating started to steadily increase for about 3 years. Following that was 4 years of relatively static movement of rating values of around 4.10. Upon deeper analysis it was seen that the proportion of ratings explained a lot of the dynamic movements. In particular, the ratings of 1 and 5 had the most movement and their proportions can be seen to affect the average ratings over the years plot.  
 
